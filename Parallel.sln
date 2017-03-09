@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{98402EEC-FBCE-FC33-6954-458A01752131}") = "Parallel", "Assembly-CSharp-firstpass.csproj", "{A910C6C4-6BBB-A804-BE76-6862BEEE86EE}"
+EndProject
+Project("{98402EEC-FBCE-FC33-6954-458A01752131}") = "Parallel", "Assembly-CSharp.csproj", "{81ADD0C7-361A-0620-00AD-7D5A260CF157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A910C6C4-6BBB-A804-BE76-6862BEEE86EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A910C6C4-6BBB-A804-BE76-6862BEEE86EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A910C6C4-6BBB-A804-BE76-6862BEEE86EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A910C6C4-6BBB-A804-BE76-6862BEEE86EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81ADD0C7-361A-0620-00AD-7D5A260CF157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81ADD0C7-361A-0620-00AD-7D5A260CF157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81ADD0C7-361A-0620-00AD-7D5A260CF157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81ADD0C7-361A-0620-00AD-7D5A260CF157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/game/target.cs">
+    <Files>
+      <File FileName="Assets/script/story/send_to_story.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/game/game_controller.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/other/text_fade.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/opening/skip_manage.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/story/ui_manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/stage1_ready/stage1_ready_ui_manage.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/stage1_ready/stage1_ready_send.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/game/target.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/game/anim_event.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/story1_end/result_controller.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/story1_end/Ui_manage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/譜面.csv" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
